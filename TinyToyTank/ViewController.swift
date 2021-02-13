@@ -14,6 +14,20 @@ class ViewController: UIViewController {
     
     @IBOutlet var arView: ARView!
     
+    @IBAction func tankRightPressed(_ sender: Any) {
+    }
+    @IBAction func tankForwardPressed(_ sender: Any) {
+    }
+    @IBAction func tankLeftPressed(_ sender: Any) {
+    }
+    @IBAction func turretLeftPressed(_ sender: Any) {
+    }
+    @IBAction func turretRightPressed(_ sender: Any) {
+    }
+    @IBAction func cannonFirePressed(_ sender: Any) {
+    }
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
